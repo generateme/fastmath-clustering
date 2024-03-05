@@ -1,4 +1,4 @@
-(defproject generateme/fastmath-clustering "1.0.0"
+(defproject org.clojars.generateme/fastmath-clustering "1.0.0"
   :description "SMILE Clustering wrapper"
   :url "https://github.com/generateme/fastmath-clustering"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
