@@ -13,4 +13,4 @@
                  [org.bytedeco/openblas-platform "0.3.10-1.5.4"]
                  [org.bytedeco/javacpp "1.5.4"]]
   :pedantic? false
-  :profiles {:dev-codox {:codox {:source-uri "https://github.com/generateme/fastmath/blob/master/{filepath}#L{line}"}}})
+  :profiles {:dev-codox {:codox {:source-uri "https://github.com/genmeblog/fastmath-clustering/blob/master/{filepath}#L{line}"}}})
