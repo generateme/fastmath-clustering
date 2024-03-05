@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.generateme/fastmath-clustering.svg)](https://clojars.org/org.clojars.generateme/fastmath-clustering)
+
 # fastmath-clustering
 
 [SMILE](https://haifengl.github.io/) clustering wrapper.
